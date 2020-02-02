@@ -1,0 +1,11 @@
+numpy
+matplotlib
+os
+sklearn
+pandas
+jupyter
+git+https://github.com/paris-saclay-cds/ramp-workflow.git
+seaborn
+xgboost
+geopandas
+folium

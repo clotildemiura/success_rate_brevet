@@ -1,0 +1,17 @@
+name: brevet_examen
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - spyder
+  - seaborn
+  - xgboost
+  - pip:
+      - https://api.github.com/repos/paris-saclay-cds/ramp-workflow/zipball/master
+      - geopandas
+      - folium
